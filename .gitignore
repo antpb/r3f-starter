@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# React build output
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE / Editor folders
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
